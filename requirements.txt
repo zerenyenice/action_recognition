@@ -1,0 +1,15 @@
+PyYAML==5.3.1
+googledrivedownloader==0.4
+torch==1.10.0
+torchvision==0.11.1
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python==4.1.2.30
+Pillow>=7.1.2
+requests>=2.23.0
+scipy>=1.4.1
+tqdm>=4.41.0
+numpy
+pandas
+sklearn
+seaborn
