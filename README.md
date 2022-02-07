@@ -8,4 +8,8 @@ pip install -r requirements.txt
 
 python main.py -i 'name-of-your-input-file'
 
+Alternatively,
+
+you can use task_colab.ipynb on colab to run code
+
 
