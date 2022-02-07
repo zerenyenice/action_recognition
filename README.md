@@ -2,6 +2,7 @@
 detecting hitting and kicking activities in a video
 
 ## Install
+Tested with Python 3.8
 pip install -r requirements.txt
 
 ## Run
